@@ -39,7 +39,7 @@ nav>ul {
     background-color: #FFFC00;
     text-align: center;
     height: 100vh;
-    padding: 60px 40px 40px;
+    padding: 60px 40px 80px;
 }
 
 #home>h1 {
@@ -101,6 +101,7 @@ footer {
 
 #second-footer {
     padding: 0 140px;
+    margin-top: -70px;
     margin-bottom: 20px;
 }
 
