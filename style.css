@@ -38,7 +38,7 @@ nav>ul {
 #home {
     background-color: #FFFC00;
     text-align: center;
-    height: 100vh;
+    height: 800px;
     padding: 60px 40px 80px;
 }
 
@@ -46,6 +46,10 @@ nav>ul {
     font-size: 48px;
     font-weight: 800;
     margin-top: 60px
+}
+#avatar-div {
+    display: flex;
+    margin-top: 60px;
 }
 
 .avatars {
@@ -72,10 +76,7 @@ nav>ul {
     border-radius: 30px;
 }
 
-#avatar-div {
-    display: flex;
-    margin-top: 60px;
-}
+
 
 footer {
     display: flex;
