@@ -33,6 +33,7 @@ nav>ul {
 #links li {
     margin: 10px 15px;
     font-weight: 600;
+    font-size: 15px;
 }
 
 #home {
@@ -49,6 +50,7 @@ nav>ul {
 }
 #avatar-div {
     display: flex;
+    justify-content: space-around;
     margin-top: 60px;
 }
 
